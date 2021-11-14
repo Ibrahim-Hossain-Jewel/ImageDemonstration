@@ -1,0 +1,26 @@
+section: [
+                {
+                    title: 'Hats',
+                    imageUrl: 'https://th.bing.com/th/id/OIP.XNtLT5kBTncNwGeMypl8IwHaEI?pid=ImgDet&rs=1',
+                    id: 1
+                },{
+                    title: 'Jacket',
+                    imageUrl: 'https://th.bing.com/th/id/OIP.f44jbdmhT0VvoXW5MEGPZgHaE7?pid=ImgDet&rs=1',
+                    id: 2
+                },
+                {
+                    title: 'Sneakers',
+                    imageUrl: 'https://th.bing.com/th/id/R.f44e3291bc128ba7ec0c36a718fcb436?rik=vkfqdaDxDvAEwg&pid=ImgRaw&r=0',
+                    id: 3
+                },
+                {
+                    title: 'Woman',
+                    imageUrl: 'https://th.bing.com/th/id/R.56de5b6428bea883d295e928fea44d04?rik=GX1U7rNJs8Ia6g&pid=ImgRaw&r=0',
+                    id: 4
+                },
+                {
+                    title: 'Man',
+                    imageUrl: 'https://th.bing.com/th/id/R.9482c5a7e6caee8977ccf3c495f3c66f?rik=eiKTdw4VHf%2fQyA&pid=ImgRaw&r=0',
+                    id: 5
+                }
+            ]
