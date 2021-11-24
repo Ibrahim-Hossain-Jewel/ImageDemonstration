@@ -13,6 +13,7 @@ class ShopPage extends React.Component{
             Collection: SHOP_DATA
         }
     }
+
     render(){
         //So you have to use extra div for each map() method execution;
         //destructured property must be according to origin collection
